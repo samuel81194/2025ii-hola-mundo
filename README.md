@@ -20,10 +20,10 @@ Experiencia de aprendizaje práctica para introducir conceptos importantes de de
        </style>
    </head>
    <body>
-       <script>
-           // Tus scripts van aquí
-       </script>
-       <!-- Tu contenido va aquí -->
+      <!-- Tu contenido va aquí -->
+      <script>
+        // Tus scripts van aquí
+      </script>
    </body>
    </html>
    ```
