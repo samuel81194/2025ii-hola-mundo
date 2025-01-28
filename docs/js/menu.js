@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="container">
             <nav>
                 <ul>
-                    <li><a href="/docs/index.html">Inicio</a></li>
-                    <li><a href="/docs/pages/jcarroyos.html">jcarroyos</a></li>
+                    <li><a href="/index.html">Inicio</a></li>
+                    <li><a href="/pages/jcarroyos.html">jcarroyos</a></li>
                     <!-- Agrega más enlaces según sea necesario -->
                 </ul>
             </nav>
