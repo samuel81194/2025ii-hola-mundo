@@ -3,6 +3,6 @@ Experiencia de aprendizaje práctica para introducir conceptos importantes de de
 
 ## Checklist
 
-[ ] Crear un Codespace
-[ ] Instalar y activar Github Copilot
-[ ] Instalar la extensión Live Preview de Microsoft
+- [ ] Crear un Codespace
+- [ ] Instalar y activar Github Copilot
+- [ ] Instalar la extensión Live Preview de Microsoft
