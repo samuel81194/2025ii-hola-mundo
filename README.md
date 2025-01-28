@@ -1,11 +1,6 @@
 # 2025ii-hola-mundo
 Experiencia de aprendizaje práctica para introducir conceptos importantes de desarrollo frontend y flujos de trabajo con Git/GitHub.
 
-
-Aquí tienes la versión en español ajustada según lo que solicitas:
-
----
-
 ### Para contribuir a este proyecto, sigue estos pasos:
 
 1. **Crea una nueva rama**: En lugar de trabajar directamente en `main` o `develop`, comienza creando una nueva rama desde `develop`. Puedes hacer esto desde **GitHub Codespaces**, no clonando el repositorio localmente.
